@@ -76,5 +76,5 @@ I am a passionate Full-Stack Software Engineer focused on building clean, modula
 ---
 
 ### 🤝 Connect with Me
-- 💼 **LinkedIn**: [https://www.linkedin.com/in/pradeep-kambalapally-a0b8a3307/](https://www.linkedin.com/in/pradeep-kambalapally-a0b8a3307/) *(replace with your real link)*
-- 📧 **Email**: [pradeepkambalapally2004@gmail.com](mailto:pradeepkambalapally2004@gmail.com) *(replace with your real email)*
+- 💼 **LinkedIn**: [https://www.linkedin.com/in/pradeep-kambalapally-a0b8a3307/](https://www.linkedin.com/in/pradeep-kambalapally-a0b8a3307/)
+- 📧 **Email**: [pradeepkambalapally2004@gmail.com](mailto:pradeepkambalapally2004@gmail.com) 
