@@ -52,14 +52,14 @@ I am a passionate Full-Stack Software Engineer focused on building clean, modula
 - Built a workspace for developer collaboration featuring real-time document editing and project sharing.
 - Utilized WebSockets for instant, low-latency client synchronizations.
 - Structured with clean, reusable React components and robust state synchronization.
-- 🔗 **Live Demo:** [https://dev-collab-demo.onrender.com/](https://dev-collab-demo.onrender.com/)
+- 🔗 **Live Demo:** [https://devcollab-seven.vercel.app/](https://devcollab-seven.vercel.app/)
 
 #### 📊 **[Code Tracker](https://github.com/pradeepkambalapally/code-tracker)**
 *Developer Productivity and Coding Time Tracking Dashboard*
 - Developed a dashboard application to track and visualize coding progress, milestones, and task completion.
 - Implemented charts and analytic dashboards using chart libraries to represent user progress datasets.
 - Connected backend CRUD APIs for tracking sessions and logging time data.
-- 🔗 **Live Demo:** [https://code-tracker-demo.onrender.com/](https://code-tracker-demo.onrender.com/)
+- 🔗 **Live Demo:** [https://codetracker-eosin.vercel.app/](https://codetracker-eosin.vercel.app/)
 
 ---
 
@@ -76,6 +76,5 @@ I am a passionate Full-Stack Software Engineer focused on building clean, modula
 ---
 
 ### 🤝 Connect with Me
-- 💼 **LinkedIn**: [linkedin.com/in/your-username](https://linkedin.com/in/your-username) *(replace with your real link)*
-- 📧 **Email**: [your.email@example.com](mailto:your.email@example.com) *(replace with your real email)*
-- 🌐 **Portfolio**: [yourportfolio.com](https://yourportfolio.com) *(optional)*
+- 💼 **LinkedIn**: [https://www.linkedin.com/in/pradeep-kambalapally-a0b8a3307/](https://www.linkedin.com/in/pradeep-kambalapally-a0b8a3307/) *(replace with your real link)*
+- 📧 **Email**: [pradeepkambalapally2004@gmail.com](mailto:pradeepkambalapally2004@gmail.com) *(replace with your real email)*
